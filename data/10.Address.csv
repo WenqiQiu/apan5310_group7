@@ -1,0 +1,660 @@
+Street,City,State,ZipCode,Country,AddressID
+,,,,Russia,1
+605 Magnolia Avenue,West Samantha,VA,18634.0,US,2
+666 Butternut Road,Pamelatown,WY,68311.0,US,3
+228 Linden Road,Patriciaside,IN,67199.0,US,4
+,,,,China,5
+842 Cypress Road,Clarkborough,NM,16749.0,US,6
+838 Sweetgum Road,East Natalie,OK,90802.0,US,7
+111 Laurel Road,Monicamouth,PA,34050.0,US,8
+270 Buckeye Road,North Dawn,MA,59931.0,US,9
+414 Redwood Road,New Misty,DE,43119.0,US,10
+287 Walnut Avenue,New Angela,KY,44178.0,US,11
+,,,,Germany,12
+261 Walnut Lane,South Sarah,SC,22504.0,US,13
+403 Oak Road,West Alexmouth,NJ,64090.0,US,14
+224 Dogwood Avenue,Robertfort,KS,60443.0,US,15
+898 Hawthorn Road,Dianeland,MT,59538.0,US,16
+411 Plum Road,West Ryan,MI,98113.0,US,17
+881 Magnolia Avenue,South James,MI,15846.0,US,18
+619 Alder Road,East Barbaraland,HI,69135.0,US,19
+771 Cherry Avenue,East Josephmouth,GA,62874.0,US,20
+230 Sequoia Avenue,Sharonfurt,DE,83941.0,US,21
+555 Spruce Road,Robertstad,NE,41005.0,US,22
+679 Redwood Road,Kochland,NY,53110.0,US,23
+748 Umbrella Road,Castroville,AK,56652.0,US,24
+771 Willow Avenue,Kellerside,ID,22111.0,US,25
+177 Butternut Road,Gravesmouth,OH,89144.0,US,26
+985 Palm Road,Peterville,ID,10241.0,US,27
+,,,,Spain,28
+225 Cottonwood Avenue,West Catherine,LA,98244.0,US,29
+540 Locust Road,Andersonview,OH,86841.0,US,30
+,,,,United Kingdom,31
+878 Cypress Road,New Williamville,OH,28769.0,US,32
+744 Cherry Road,Williamsland,MA,84434.0,US,33
+824 Acorn Avenue,Stanleyshire,MN,14373.0,US,34
+842 Olive Road,Suttonborough,MA,98737.0,US,35
+,,,,Netherlands,36
+434 Catalpa Road,Taylorborough,MI,44153.0,US,37
+476 Redwood Avenue,Tracymouth,NC,94793.0,US,38
+819 Sequoia Road,North Gregg,FL,15461.0,US,39
+,,,,France,40
+110 Cherry Road,Beltranmouth,MD,63339.0,US,41
+381 Fir Avenue,Liside,SC,60162.0,US,42
+534 Sassafras Road,Lake Dakota,AR,55911.0,US,43
+280 Cypress Road,Carlsonmouth,NY,84671.0,US,44
+410 Ash Avenue,West Benjamin,AR,12261.0,US,45
+920 Buckeye Avenue,South William,WY,20438.0,US,46
+699 Linden Avenue,Jeremyfort,MA,96730.0,US,47
+558 Willow Road,Melissaborough,DE,68265.0,US,48
+925 Fir Road,Stanleyshire,MN,14373.0,US,49
+,,,,Australia,50
+347 Hickory Avenue,Port Chadmouth,IL,85238.0,US,51
+506 Tulip Road,Thomaston,AL,71940.0,US,52
+402 Aspen Avenue,Maxwellport,MT,28585.0,US,53
+252 Sycamore Avenue,Jennifermouth,LA,33591.0,US,54
+321 Birch Road,West Janiceton,WA,89549.0,US,55
+289 Hemlock Avenue,New Jenniferfurt,TX,74933.0,US,56
+259 Hemlock Avenue,Clarkborough,NM,16749.0,US,57
+542 Magnolia Avenue,Rossbury,NV,15106.0,US,58
+,,,,South Korea,59
+897 Olive Road,South Sandra,DE,90775.0,US,60
+,,,,Japan,61
+351 Hawthorn Avenue,West Peterberg,ME,39806.0,US,62
+425 Poplar Avenue,Campbellbury,PA,78083.0,US,63
+397 Spruce Avenue,Cooleystad,AL,96154.0,US,64
+,,,,Italy,65
+973 Elm Road,Joseland,ND,37360.0,US,66
+590 Magnolia Lane,Webbview,NJ,78788.0,US,67
+,,,,Brazil,68
+270 Ash Avenue,South Nicoleburgh,TX,81233.0,US,69
+363 Hickory Avenue,West Stevenport,OR,34188.0,US,70
+450 Alder Road,Timothyton,AR,29375.0,US,71
+916 Acorn Road,Port Christopher,HI,18261.0,US,72
+603 Hickory Road,South Laura,NC,68079.0,US,73
+,,,,Mexico,74
+317 Acorn Road,Morenoport,NE,25558.0,US,75
+734 Sweetgum Road,South Sandra,DE,90775.0,US,76
+704 Chestnut Road,New Misty,DE,43119.0,US,77
+190 Cedar Road,East Gabrielville,CO,61896.0,US,78
+403 Sugar Maple Road,East Natalie,OK,90802.0,US,79
+894 Acorn Road,Sharonfurt,DE,83941.0,US,80
+849 Palm Avenue,Maryshire,CO,65573.0,US,81
+356 Elm Avenue,Swansonberg,ND,74109.0,US,82
+283 Tamarack Road,New Steven,NJ,16502.0,US,83
+269 Elmwood Lane,East Brittanyfurt,VT,94515.0,US,84
+498 Cherry Avenue,Robertfort,KS,60443.0,US,85
+687 Tamarack Road,Port Christopher,HI,18261.0,US,86
+384 Tamarack Avenue,Johnsonchester,OH,93709.0,US,87
+245 Cedar Road,Banksville,SD,23892.0,US,88
+623 Spruce Road,Maryshire,CO,65573.0,US,89
+323 Mesquite Road,Williamsland,MA,84434.0,US,90
+162 Oak Road,Garciaview,CO,95834.0,US,91
+427 Cherry Avenue,Port Kristina,UT,68893.0,US,92
+478 Aspen Trail,Reyeschester,HI,21555.0,US,93
+250 Spruce Road,Webbview,NJ,78788.0,US,94
+621 Poplar Avenue,Whitakerside,MA,28731.0,US,95
+970 Mulberry Road,Stephensberg,NC,62253.0,US,96
+103 Tamarack Road,New Heatherton,GA,89790.0,US,97
+346 Pine Ridge,Jimmyside,AK,93801.0,US,98
+546 Hickory Avenue,Julieville,OH,42244.0,US,99
+182 Hemlock Road,Jennifermouth,LA,33591.0,US,100
+519 Maple Road,Amymouth,VA,66014.0,US,101
+,,,,Turkey,102
+587 Plum Road,Rebeccashire,NH,78752.0,US,103
+219 Palm Avenue,Port Teresa,ME,88491.0,US,104
+370 Sassafras Road,Gravesmouth,OH,89144.0,US,105
+916 Cherry Road,Joseland,AK,55802.0,US,106
+,,,,Argentina,107
+145 Basswood Avenue,Katrinafurt,WI,88830.0,US,108
+671 Butternut Avenue,South Sarah,SC,22504.0,US,109
+953 Magnolia Road,Thomasstad,CT,98604.0,US,110
+577 Poplar Avenue,Lake Cindy,AR,46405.0,US,111
+917 Ash Avenue,Susanton,MO,42942.0,US,112
+868 Tamarack Avenue,Ballhaven,WY,42951.0,US,113
+226 Elmwood Lane,New Amyhaven,ND,71634.0,US,114
+402 Silver Road,South Sarah,SC,22504.0,US,115
+927 Cherry Avenue,Port Kenneth,NJ,79822.0,US,116
+699 Pear Road,New Angela,KY,44178.0,US,117
+237 Beech Road,Melaniefort,CA,84906.0,US,118
+384 Acorn Avenue,East Michaelstad,MO,33253.0,US,119
+218 Persimmon Road,Douglasshire,ND,20716.0,US,120
+711 Palm Road,Webbview,NJ,78788.0,US,121
+633 Fir Avenue,New Jeff,SD,45306.0,US,122
+590 Alder Avenue,Jessicaborough,MT,58307.0,US,123
+564 Sassafras Road,Sethbury,SD,44288.0,US,124
+951 Mulberry Road,Samanthaland,KS,18954.0,US,125
+180 Serviceberry Road,Thomasview,MN,22598.0,US,126
+632 Basswood Road,Stanleyshire,MN,14372.0,US,127
+280 Hickory Road,Port David,DE,43368.0,US,128
+589 Elmwood Lane,Whitakerside,MA,28731.0,US,129
+760 Cottonwood Road,West Brendastad,RI,89503.0,US,130
+553 Catalpa Road,Judithberg,AZ,62221.0,US,131
+211 Mesquite Road,Ramirezmouth,AZ,89401.0,US,132
+702 Maple Avenue,Lake Amy,CT,64286.0,US,133
+598 Pine Ridge,Lake Michele,IN,32044.0,US,134
+815 Ash Road,Normanville,NM,19269.0,US,135
+262 Walnut Lane,Garrettchester,NV,38833.0,US,136
+715 Sweetgum Avenue,Dianafort,NV,78744.0,US,137
+298 Oak Road,Bellhaven,VA,89640.0,US,138
+472 Fir Road,Robertfort,KS,60443.0,US,139
+652 Juniper Road,Fitzgeraldton,CO,70956.0,US,140
+301 Chestnut Avenue,New Margaret,MA,43738.0,US,141
+,,,,Canada,142
+499 Basswood Avenue,Johnsonchester,OH,93709.0,US,143
+835 Cherry Road,Taylorborough,MI,44153.0,US,144
+943 Pine Road,Lake Amy,CT,64286.0,US,145
+969 Hickory Avenue,Lake Shawnburgh,NJ,45183.0,US,146
+688 Poplar Road,New Philip,MA,58622.0,US,147
+462 Basswood Road,Port Brittanyhaven,IL,65101.0,US,148
+744 Pine Avenue,East Samanthastad,DE,88651.0,US,149
+932 Silver Road,South Robertton,AZ,19672.0,US,150
+365 Hickory Road,Lake Diana,ID,80358.0,US,151
+879 Hickory Avenue,Port Ryanshire,FL,13532.0,US,152
+925 Chestnut Road,Stephensberg,NC,62253.0,US,153
+824 Butternut Road,West Brendastad,RI,89503.0,US,154
+497 Magnolia Lane,East Karen,MS,83576.0,US,155
+672 Maple Road,Petersonmouth,GA,16447.0,US,156
+163 Hemlock Avenue,New Angela,KY,44178.0,US,157
+,,,,India,158
+822 Chestnut Road,New Hollyton,AR,85806.0,US,159
+259 Palm Road,Morenoport,NE,25558.0,US,160
+477 Oak Avenue,West Shannon,TX,62896.0,US,161
+682 Aspen Road,East Jamie,MA,86242.0,US,162
+289 Redwood Avenue,Banksville,SD,23894.0,US,163
+722 Hickory Road,South Dustinfurt,WA,22935.0,US,164
+201 Basswood Avenue,West Andrewville,TX,84094.0,US,165
+875 Laurel Road,Port Jenniferfurt,PA,43735.0,US,166
+512 Juniper Road,South Kelly,VA,16152.0,US,167
+888 Tamarack Road,South Philip,OR,85407.0,US,168
+418 Hawthorn Avenue,Stanleyfort,AL,77911.0,US,169
+533 Locust Road,Johnstonton,MI,15874.0,US,170
+590 Cypress Road,East Leslieton,HI,81719.0,US,171
+355 Dogwood Avenue,West Brendastad,RI,89503.0,US,172
+576 Juniper Avenue,North Tarabury,SC,86066.0,US,173
+192 Catalpa Avenue,East Cliffordfurt,WI,29320.0,US,174
+494 Redwood Road,Peterville,ID,10241.0,US,175
+363 Redwood Road,Rebeccashire,NH,78752.0,US,176
+545 Spruce Road,North Amandabury,IN,71473.0,US,177
+361 Tulip Road,Alexmouth,ME,36025.0,US,178
+688 Sequoia Avenue,New Philip,MA,58622.0,US,179
+431 Linden Avenue,Lake Scott,AR,89234.0,US,180
+731 Palm Road,Carlsonmouth,NY,84671.0,US,181
+773 Juniper Avenue,New Jeremiahborough,KY,30243.0,US,182
+715 Hickory Ridge,Monicamouth,PA,34050.0,US,183
+589 Magnolia Road,Port Kenneth,NJ,79822.0,US,184
+445 Maple Road,Sethbury,SD,44288.0,US,185
+695 Sequoia Road,Lake Joseph,AR,58221.0,US,186
+907 Acorn Road,East Leslieton,HI,81719.0,US,187
+865 Magnolia Road,Ballhaven,WY,42953.0,US,188
+754 Walnut Road,Thomaston,AL,71940.0,US,189
+315 Magnolia Road,Melissaborough,DE,68265.0,US,190
+890 Willow Road,Thomasstad,CT,98604.0,US,191
+553 Willow Avenue,Reyeschester,HI,21555.0,US,192
+309 Sweetgum Road,Grayfort,GA,29687.0,US,193
+920 Poplar Road,Lake Emily,UT,84119.0,US,194
+435 Hickory Ridge,Randallton,IA,18478.0,US,195
+802 Tamarack Avenue,East Tina,PA,40315.0,US,196
+600 Willow Road,New Cynthia,VT,17586.0,US,197
+567 Juniper Avenue,South Laura,NC,68079.0,US,198
+964 Walnut Road,South Sandra,DE,90775.0,US,199
+336 Linden Road,New Lisa,WY,36945.0,US,200
+989 Juniper Avenue,East Manuel,MO,76399.0,US,201
+218 Fir Road,Princemouth,OH,23286.0,US,202
+374 Cypress Road,West Jamieborough,NV,41684.0,US,203
+698 Spruce Road,New Anthony,PA,52518.0,US,204
+220 Walnut Road,West William,RI,18588.0,US,205
+602 Birch Avenue,Dianafort,NV,78744.0,US,206
+768 Beech Avenue,Suttonborough,MA,98737.0,US,207
+120 Olive Road,Joshuachester,SD,59863.0,US,208
+587 Hickory Avenue,Aaronchester,OR,73102.0,US,209
+477 Ginkgo Road,North Wandaborough,OH,21299.0,US,210
+411 Linden Road,East Crystalmouth,MD,86961.0,US,211
+237 Cedar Avenue,South Sarah,SC,22504.0,US,212
+425 Juniper Avenue,Robbinsland,IN,73677.0,US,213
+954 Elm Avenue,Port Anna,WA,79036.0,US,214
+598 Alder Avenue,Port Christopher,CO,34625.0,US,215
+221 Pear Road,Normanville,NM,19269.0,US,216
+145 Walnut Road,Susanton,MO,42942.0,US,217
+819 Redwood Road,New Philip,MA,58621.0,US,218
+376 Sweetgum Road,West Brady,VA,30176.0,US,219
+704 Ginkgo Avenue,Simsshire,MD,76164.0,US,220
+625 Sycamore Avenue,Jennifermouth,OR,97754.0,US,221
+554 Pine Avenue,South Teresastad,VA,12816.0,US,222
+376 Tamarack Avenue,East Sharon,KS,26799.0,US,223
+163 Maplewood Trail,North Gregg,FL,15461.0,US,224
+282 Hawthorn Road,Wheelermouth,OR,84086.0,US,225
+166 Alder Avenue,Stevenside,PA,89622.0,US,226
+686 Spruce Road,North Gregg,FL,15461.0,US,227
+365 Basswood Road,West Robertofort,NY,53695.0,US,228
+465 Silver Road,Lake Lori,DE,50501.0,US,229
+178 Basswood Road,West Andrewville,TX,84094.0,US,230
+255 Ash Avenue,East Josephmouth,GA,62874.0,US,231
+613 Sycamore Road,Liside,SC,60162.0,US,232
+261 Mulberry Avenue,New Misty,DE,43119.0,US,233
+760 Cherry Avenue,West Elizabethchester,MN,71577.0,US,234
+703 Dogwood Road,Jeremyfort,MA,96730.0,US,235
+173 Oak Road,Madisontown,MS,36025.0,US,236
+854 Maple Road,Monicamouth,PA,34050.0,US,237
+301 Buckeye Avenue,Swansonberg,ND,74109.0,US,238
+620 Maple Avenue,Aaronchester,OR,73103.0,US,239
+804 Mulberry Road,Robbinsland,IN,73677.0,US,240
+636 Redwood Road,Webbview,NJ,78788.0,US,241
+526 Birch Avenue,Sheaville,OH,74865.0,US,242
+982 Cedar Road,Lake Melaniechester,ID,96722.0,US,243
+544 Sassafras Road,South Williamview,ME,51635.0,US,244
+426 Buckeye Avenue,Princemouth,OH,23286.0,US,245
+562 Palm Avenue,North Tarabury,SC,86066.0,US,246
+314 Hemlock Road,Jennifermouth,OR,97754.0,US,247
+850 Ash Road,Kellerside,ID,22111.0,US,248
+438 Hawthorn Road,West Stevenport,OR,34188.0,US,249
+266 Magnolia Lane,West Janiceton,WA,89549.0,US,250
+385 Catalpa Avenue,West Jenniferhaven,WA,24505.0,US,251
+205 Laurel Road,Lake Erictown,NV,40398.0,US,252
+264 Hickory Road,Port Gregorymouth,PA,74733.0,US,253
+219 Laurel Road,Rossbury,NV,15106.0,US,254
+707 Beech Road,Elizabethport,NE,43742.0,US,255
+280 Mulberry Avenue,Lake Gerald,NV,30078.0,US,256
+145 Oak Avenue,South Williamview,ME,51635.0,US,257
+875 Magnolia Avenue,Normanville,NM,19269.0,US,258
+721 Chestnut Road,Whitakerside,MA,28731.0,US,259
+7260 Frazier Knolls Suite 331,Newark,NJ,74865.0,US,260
+715 Ryan Lodge,New York City,NY,79036.0,US,261
+300 Reese Plaza,Long Island City,NY,85100.0,US,262
+703 James Villages,Stamford,CT,36945.0,US,263
+606 Booth Underpass Apt. 034,Long Island City,NY,34050.0,US,264
+7565 Holt Wall Suite 441,Long Island City,NY,86841.0,US,265
+159 Alder Street,Dallas,TX,49044.0,US,266
+766 Aspen Grove,Chicago,IL,69209.0,US,267
+933 Ginkgo Street,Dallas,TX,74779.0,US,268
+117 Mulberry Street,Phoenix,AZ,47824.0,US,269
+173 Linden Street,Dallas,TX,81034.0,US,270
+147 Plum Street,San Diego,CA,96512.0,US,271
+612 Sycamore Street,Dallas,TX,91265.0,US,272
+363 Plum Street,Chicago,IL,38515.0,US,273
+818 Locust Street,Los Angeles,CA,70900.0,US,274
+550 Magnolia Street,San Jose,NY,38005.0,US,275
+166 Linden Street,Chicago,IL,36613.0,US,276
+800 Hickory Hollow,Chicago,IL,87818.0,US,277
+831 Dogwood Street,Phoenix,AZ,81578.0,US,278
+785 Cottonwood Street,San Diego,CA,74280.0,US,279
+984 Catalpa Street,Chicago,IL,31012.0,US,280
+840 Pine Crescent,San Jose,CA,93281.0,US,281
+158 Sassafras Street,Dallas,TX,93355.0,US,282
+439 Sycamore Street,Houston,IL,88814.0,US,283
+381 Ash Street,Houston,TX,67532.0,US,284
+720 Redwood Street,Dallas,TX,42439.0,US,285
+759 Elm Street,Phoenix,AZ,44817.0,US,286
+961 Tulip Street,San Jose,CA,44198.0,US,287
+959 Redwood Street,Los Angeles,PA,34784.0,US,288
+341 Birch Street,Dallas,TX,83656.0,US,289
+800 Cherry Street,Philadelphia,TX,85479.0,US,290
+927 Maple Street,Chicago,IL,33012.0,US,291
+984 Juniper Street,Houston,AZ,94399.0,US,292
+924 Walnut Street,Dallas,TX,39817.0,US,293
+441 Fir Street,Houston,TX,22432.0,US,294
+563 Chestnut Street,San Diego,CA,33542.0,US,295
+231 Palm Street,San Jose,AZ,46073.0,US,296
+727 Serviceberry Street,Houston,CA,89694.0,US,297
+362 Magnolia Circle,Dallas,TX,20854.0,US,298
+134 Walnut Street,New York,NY,44414.0,US,299
+986 Oak Street,San Antonio,CA,75179.0,US,300
+588 Cottonwood Street,San Antonio,CA,96821.0,US,301
+142 Acorn Street,Houston,IL,35142.0,US,302
+976 Hemlock Street,Phoenix,AZ,71300.0,US,303
+785 Fir Street,San Jose,TX,15355.0,US,304
+527 Pear Street,Houston,PA,57260.0,US,305
+157 Maplewood Drive,San Diego,CA,66803.0,US,306
+595 Locust Street,Phoenix,AZ,27430.0,US,307
+979 Cypress Street,New York,NY,20312.0,US,308
+951 Cedar Lane,Houston,CA,38783.0,US,309
+893 Butternut Street,Dallas,TX,92852.0,US,310
+228 Tulip Street,Dallas,TX,40432.0,US,311
+406 Pine Street,San Antonio,TX,45530.0,US,312
+381 Tamarack Street,Phoenix,AZ,53792.0,US,313
+747 Mesquite Street,New York,NY,47035.0,US,314
+731 Cedar Street,Houston,IL,81292.0,US,315
+753 Olive Street,Phoenix,AZ,65099.0,US,316
+928 Silver Street,Los Angeles,TX,45244.0,US,317
+991 Hawthorn Street,Chicago,IL,26894.0,US,318
+544 Catalpa Street,New York,NY,81973.0,US,319
+905 Magnolia Circle,Philadelphia,CA,82849.0,US,320
+232 Laurel Street,New York,NY,43940.0,US,321
+588 Hemlock Street,Chicago,IL,51762.0,US,322
+151 Sugar Maple Street,San Diego,CA,87171.0,US,323
+339 Mesquite Street,New York,NY,40865.0,US,324
+535 Aspen Street,San Antonio,TX,29985.0,US,325
+330 Hawthorn Street,Dallas,TX,49497.0,US,326
+821 Dogwood Street,Dallas,TX,75824.0,US,327
+567 Willow Street,Phoenix,AZ,89424.0,US,328
+702 Magnolia Street,Houston,TX,38030.0,US,329
+698 Cherry Street,Chicago,IL,38193.0,US,330
+145 Oak Street,Chicago,IL,53749.0,US,331
+933 Palm Street,Phoenix,AZ,30729.0,US,332
+342 Butternut Street,San Antonio,IL,54172.0,US,333
+225 Basswood Street,San Jose,TX,89938.0,US,334
+721 Birch Street,San Diego,CA,13471.0,US,335
+185 Olive Street,Los Angeles,TX,48098.0,US,336
+790 Spruce Street,Philadelphia,IL,35382.0,US,337
+131 Umbrella Street,San Jose,CA,76830.0,US,338
+852 Pine Street,Los Angeles,CA,44156.0,US,339
+815 Ash Street,San Antonio,TX,60676.0,US,340
+812 Sweetgum Street,Phoenix,AZ,72142.0,US,341
+345 Cypress Street,San Jose,PA,32318.0,US,342
+974 Persimmon Street,San Jose,CA,60080.0,US,343
+653 Serviceberry Street,San Antonio,TX,33317.0,US,344
+924 Beech Street,San Jose,TX,74429.0,US,345
+977 Silver Street,Houston,TX,25708.0,US,346
+175 Ginkgo Street,San Diego,CA,37348.0,US,347
+153 Maple Street,Los Angeles,TX,40300.0,US,348
+652 Elmwood Avenue,San Jose,CA,98932.0,US,349
+541 Aspen Street,Phoenix,AZ,48625.0,US,350
+364 Sugar Maple Street,Philadelphia,TX,64403.0,US,351
+318 Cedar Lane,Phoenix,AZ,89985.0,US,352
+351 Buckeye Street,Philadelphia,TX,91636.0,US,353
+284 Willow Street,San Diego,CA,62310.0,US,354
+449 Pine Crescent,Dallas,TX,84695.0,US,355
+734 Juniper Street,Dallas,TX,62115.0,US,356
+237 Walnut Drive,San Diego,CA,28677.0,US,357
+940 Cedar Street,New York,NY,20949.0,US,358
+443 Maplewood Drive,Phoenix,AZ,37837.0,US,359
+277 Beech Avenue,New Haven,CT,39223.0,US,360
+208 Sequoia Avenue,Jersey City,NJ,74547.0,US,361
+986 Redwood Avenue,Trenton,NJ,94655.0,US,362
+703 Locust Avenue,Camden,NJ,92599.0,US,363
+688 Sweetgum Avenue,New York,NY,72711.0,US,364
+163 Maple Avenue,Rochester,NY,83176.0,US,365
+430 Cottonwood Avenue,Trenton,NJ,58067.0,US,366
+612 Birch Avenue,Trenton,NJ,91450.0,US,367
+771 Pear Avenue,New Haven,CT,83896.0,US,368
+451 Magnolia Meadow,Rochester,NY,43847.0,US,369
+747 Oak Avenue,New Haven,CT,87030.0,US,370
+269 Cherry Avenue,Camden,NJ,61678.0,US,371
+757 Pine Plaza,New York,NY,31744.0,US,372
+183 Dogwood Avenue,New York,NY,55381.0,US,373
+743 Maplewood Path,Buffalo,NY,28522.0,US,374
+448 Hickory Avenue,Albany,NY,84797.0,US,375
+786 Mulberry Avenue,Stamford,CT,71578.0,US,376
+905 Serviceberry Avenue,Jersey City,NJ,22287.0,US,377
+557 Alder Avenue,Bridgeport,CT,83894.0,US,378
+537 Hickory Avenue,Waterbury,CT,41517.0,US,379
+129 Laurel Avenue,Syracuse,NY,71172.0,US,380
+333 Alder Avenue,Stamford,CT,35387.0,US,381
+929 Sugar Maple Avenue,Camden,NJ,39796.0,US,382
+321 Pear Avenue,New York,NY,10379.0,US,383
+623 Redwood Avenue,Paterson,NJ,92947.0,US,384
+179 Hickory Avenue,New Haven,CT,94625.0,US,385
+236 Cedar Boulevard,Paterson,NJ,94238.0,US,386
+414 Serviceberry Avenue,Trenton,NJ,16546.0,US,387
+859 Willow Avenue,Albany,NY,70373.0,US,388
+221 Silver Avenue,Syracuse,NY,76167.0,US,389
+794 Willow Avenue,New Haven,CT,17580.0,US,390
+339 Cottonwood Avenue,Rochester,NY,71233.0,US,391
+597 Cherry Avenue,New Haven,CT,18690.0,US,392
+353 Cypress Avenue,Rochester,NY,38605.0,US,393
+966 Mesquite Avenue,Paterson,NJ,36937.0,US,394
+350 Hawthorn Avenue,Buffalo,NY,43010.0,US,395
+178 Tulip Avenue,Jersey City,NJ,91480.0,US,396
+854 Hickory Heights,Rochester,NY,56439.0,US,397
+929 Elm Avenue,Paterson,NJ,57758.0,US,398
+894 Redwood Avenue,Newark,NJ,14271.0,US,399
+761 Sweetgum Avenue,New York,NY,62246.0,US,400
+379 Alder Avenue,Syracuse,NY,62847.0,US,401
+361 Mulberry Avenue,Waterbury,CT,72293.0,US,402
+285 Oak Avenue,Paterson,NJ,83546.0,US,403
+731 Tulip Avenue,Albany,NY,38286.0,US,404
+823 Pine Plaza,Albany,NY,58155.0,US,405
+723 Maplewood Path,New York,NY,45245.0,US,406
+344 Linden Avenue,New Haven,CT,42202.0,US,407
+588 Cedar Boulevard,Stamford,CT,17041.0,US,408
+869 Fir Avenue,New Haven,CT,35781.0,US,409
+692 Serviceberry Avenue,Jersey City,NJ,21439.0,US,410
+887 Mesquite Avenue,Newark,NJ,31633.0,US,411
+879 Umbrella Avenue,Stamford,CT,79846.0,US,412
+114 Spruce Avenue,Newark,NJ,63397.0,US,413
+679 Magnolia Avenue,Buffalo,NY,70358.0,US,414
+680 Cedar Avenue,Camden,NJ,17294.0,US,415
+773 Sugar Maple Avenue,Bridgeport,CT,20365.0,US,416
+397 Magnolia Avenue,Bridgeport,CT,39587.0,US,417
+407 Buckeye Avenue,Jersey City,NJ,45110.0,US,418
+331 Walnut Avenue,New York,NY,85351.0,US,419
+582 Umbrella Avenue,Newark,NJ,34634.0,US,420
+639 Ash Avenue,Syracuse,NY,30198.0,US,421
+794 Sassafras Avenue,Bridgeport,CT,52768.0,US,422
+427 Sweetgum Avenue,Jersey City,NJ,72044.0,US,423
+397 Juniper Avenue,New Haven,CT,62199.0,US,424
+471 Catalpa Avenue,Albany,NY,17831.0,US,425
+586 Basswood Avenue,Jersey City,NJ,47027.0,US,426
+996 Olive Avenue,Rochester,NY,95857.0,US,427
+724 Sassafras Avenue,Newark,NJ,30285.0,US,428
+183 Magnolia Meadow,Waterbury,CT,62629.0,US,429
+162 Oak Avenue,Paterson,NJ,54217.0,US,430
+112 Walnut Crescent,Albany,NY,38359.0,US,431
+597 Walnut Avenue,Trenton,NJ,61726.0,US,432
+252 Elmwood Terrace,New York,NY,80984.0,US,433
+418 Hemlock Avenue,Syracuse,NY,36110.0,US,434
+993 Persimmon Avenue,Syracuse,NY,43203.0,US,435
+254 Hemlock Avenue,Bridgeport,CT,41780.0,US,436
+290 Mesquite Avenue,Paterson,NJ,72605.0,US,437
+685 Butternut Avenue,Rochester,NY,12018.0,US,438
+906 Palm Avenue,Syracuse,NY,50407.0,US,439
+871 Walnut Avenue,New Haven,CT,13287.0,US,440
+924 Palm Avenue,Hartford,CT,33666.0,US,441
+700 Aspen Court,New Haven,CT,21773.0,US,442
+287 Persimmon Avenue,Trenton,NJ,15941.0,US,443
+776 Hickory Heights,Stamford,CT,62969.0,US,444
+256 Catalpa Avenue,Camden,NJ,42811.0,US,445
+976 Walnut Crescent,Stamford,CT,53997.0,US,446
+683 Maplewood Path,Bridgeport,CT,88614.0,US,447
+525 Sassafras Avenue,New Haven,CT,75249.0,US,448
+142 Juniper Avenue,New York,NY,70775.0,US,449
+306 Ash Avenue,Hartford,CT,34046.0,US,450
+326 Maplewood Path,Hartford,CT,33953.0,US,451
+230 Magnolia Meadow,Newark,NJ,59605.0,US,452
+209 Spruce Avenue,Newark,NJ,37156.0,US,453
+889 Willow Avenue,Buffalo,NY,13487.0,US,454
+965 Maple Avenue,New York,NY,16524.0,US,455
+749 Cottonwood Avenue,Trenton,NJ,51663.0,US,456
+664 Pine Avenue,Hartford,CT,24374.0,US,457
+707 Sassafras Avenue,Rochester,NY,14722.0,US,458
+177 Pear Avenue,Jersey City,NJ,24453.0,US,459
+345 Linden Avenue,Buffalo,NY,59508.0,US,460
+809 Sassafras Avenue,Hartford,CT,88664.0,US,461
+721 Juniper Avenue,New Haven,CT,39488.0,US,462
+919 Basswood Avenue,Trenton,NJ,10180.0,US,463
+400 Dogwood Avenue,New York,NY,53938.0,US,464
+832 Hickory Heights,Hartford,CT,26412.0,US,465
+575 Silver Avenue,New York,NY,87238.0,US,466
+387 Hemlock Avenue,Waterbury,CT,46345.0,US,467
+818 Dogwood Avenue,Rochester,NY,33049.0,US,468
+567 Willow Avenue,Syracuse,NY,18668.0,US,469
+933 Dogwood Avenue,Buffalo,NY,13268.0,US,470
+755 Willow Avenue,New York,NY,17576.0,US,471
+226 Hickory Avenue,Bridgeport,CT,24335.0,US,472
+124 Magnolia Avenue,Trenton,NJ,73285.0,US,473
+836 Juniper Avenue,Rochester,NY,81821.0,US,474
+466 Ash Avenue,Hartford,CT,87817.0,US,475
+831 Fir Avenue,Newark,NJ,57606.0,US,476
+911 Sequoia Avenue,New York,NY,39461.0,US,477
+128 Beech Avenue,Stamford,CT,76445.0,US,478
+498 Elmwood Terrace,Albany,NY,19544.0,US,479
+635 Palm Avenue,Buffalo,NY,25500.0,US,480
+671 Elm Avenue,Buffalo,NY,99587.0,US,481
+398 Redwood Avenue,New York,NY,93121.0,US,482
+419 Sugar Maple Avenue,Syracuse,NY,26686.0,US,483
+358 Basswood Avenue,Rochester,NY,89032.0,US,484
+270 Redwood Avenue,Newark,NJ,50154.0,US,485
+262 Magnolia Avenue,Newark,NJ,49591.0,US,486
+535 Sassafras Avenue,Newark,NJ,44456.0,US,487
+232 Serviceberry Avenue,Newark,NJ,21553.0,US,488
+491 Cedar Avenue,New York,NY,91604.0,US,489
+293 Linden Avenue,New York,NY,99190.0,US,490
+449 Umbrella Avenue,New Haven,CT,86370.0,US,491
+355 Hemlock Avenue,Syracuse,NY,62650.0,US,492
+224 Cypress Avenue,Albany,NY,72367.0,US,493
+112 Aspen Avenue,Hartford,CT,38504.0,US,494
+151 Sycamore Avenue,Jersey City,NJ,10381.0,US,495
+696 Cedar Avenue,Buffalo,NY,22169.0,US,496
+963 Catalpa Avenue,Syracuse,NY,89148.0,US,497
+646 Sequoia Avenue,Newark,NJ,14169.0,US,498
+671 Mulberry Avenue,Stamford,CT,71504.0,US,499
+996 Pine Plaza,Camden,NJ,73481.0,US,500
+605 Aspen Avenue,Paterson,NJ,91810.0,US,501
+149 Magnolia Meadow,Syracuse,NY,30485.0,US,502
+421 Fir Avenue,Buffalo,NY,75108.0,US,503
+491 Ginkgo Avenue,New Haven,CT,41993.0,US,504
+728 Tamarack Avenue,Rochester,NY,29498.0,US,505
+133 Elmwood Terrace,Stamford,CT,47898.0,US,506
+498 Elmwood Terrace,Rochester,NY,61049.0,US,507
+993 Pine Avenue,Trenton,NJ,14432.0,US,508
+273 Redwood Avenue,Buffalo,NY,94968.0,US,509
+379 Persimmon Avenue,Camden,NJ,53212.0,US,510
+631 Ginkgo Avenue,Syracuse,NY,29252.0,US,511
+187 Maplewood Path,Buffalo,NY,28413.0,US,512
+990 Buckeye Avenue,Hartford,CT,30479.0,US,513
+244 Aspen Court,Albany,NY,54692.0,US,514
+333 Oak Avenue,Stamford,CT,93297.0,US,515
+381 Ginkgo Avenue,Waterbury,CT,25124.0,US,516
+310 Sugar Maple Avenue,New Haven,CT,42328.0,US,517
+857 Acorn Avenue,Syracuse,NY,58919.0,US,518
+839 Alder Avenue,New Haven,CT,97577.0,US,519
+882 Umbrella Avenue,New Haven,CT,82305.0,US,520
+270 Walnut Crescent,New Haven,CT,75793.0,US,521
+212 Tulip Avenue,Syracuse,NY,15576.0,US,522
+171 Pear Avenue,New Haven,CT,69275.0,US,523
+337 Sycamore Avenue,Trenton,NJ,91473.0,US,524
+768 Dogwood Avenue,Syracuse,NY,98676.0,US,525
+434 Spruce Avenue,Syracuse,NY,96068.0,US,526
+598 Magnolia Avenue,New York,NY,53182.0,US,527
+864 Locust Avenue,Albany,NY,51201.0,US,528
+946 Sycamore Avenue,New Haven,CT,91764.0,US,529
+329 Hickory Avenue,Hartford,CT,27990.0,US,530
+540 Willow Avenue,Buffalo,NY,52994.0,US,531
+976 Plum Avenue,Albany,NY,87361.0,US,532
+705 Catalpa Avenue,Trenton,NJ,59538.0,US,533
+610 Chestnut Avenue,Trenton,NJ,62005.0,US,534
+654 Aspen Avenue,Syracuse,NY,14171.0,US,535
+101 Hickory Avenue,New Haven,CT,89301.0,US,536
+556 Poplar Avenue,Bridgeport,CT,32677.0,US,537
+983 Ginkgo Avenue,Waterbury,CT,11251.0,US,538
+401 Cedar Boulevard,Syracuse,NY,31269.0,US,539
+689 Cedar Avenue,Hartford,CT,85538.0,US,540
+119 Aspen Avenue,New Haven,CT,91244.0,US,541
+176 Spruce Avenue,Jersey City,NJ,74742.0,US,542
+924 Cedar Avenue,Camden,NJ,96059.0,US,543
+405 Walnut Avenue,Albany,NY,34816.0,US,544
+237 Pine Plaza,Waterbury,CT,40208.0,US,545
+426 Cottonwood Avenue,Albany,NY,83869.0,US,546
+865 Aspen Avenue,Syracuse,NY,98471.0,US,547
+727 Basswood Avenue,Stamford,CT,54419.0,US,548
+867 Hawthorn Avenue,Stamford,CT,97363.0,US,549
+296 Catalpa Avenue,Waterbury,CT,30470.0,US,550
+154 Alder Avenue,Waterbury,CT,49002.0,US,551
+147 Acorn Avenue,New York,NY,80532.0,US,552
+155 Butternut Avenue,Paterson,NJ,27079.0,US,553
+537 Linden Avenue,Trenton,NJ,76622.0,US,554
+694 Cedar Avenue,Trenton,NJ,21360.0,US,555
+861 Plum Avenue,Paterson,NJ,76407.0,US,556
+647 Silver Avenue,New Haven,CT,69446.0,US,557
+209 Chestnut Avenue,New Haven,CT,36481.0,US,558
+450 Cedar Avenue,Bridgeport,CT,99156.0,US,559
+911 Olive Avenue,Paterson,NJ,84234.0,US,560
+828 Locust Avenue,Bridgeport,CT,98743.0,US,561
+520 Silver Avenue,Bridgeport,CT,17301.0,US,562
+497 Pear Avenue,Paterson,NJ,66142.0,US,563
+325 Magnolia Meadow,Paterson,NJ,12019.0,US,564
+353 Cedar Avenue,Paterson,NJ,60998.0,US,565
+795 Cypress Avenue,Newark,NJ,27782.0,US,566
+869 Chestnut Avenue,Buffalo,NY,63300.0,US,567
+478 Sugar Maple Avenue,Camden,NJ,51484.0,US,568
+210 Elmwood Terrace,Camden,NJ,23126.0,US,569
+868 Spruce Avenue,Bridgeport,CT,61987.0,US,570
+742 Buckeye Avenue,New York,NY,16852.0,US,571
+231 Walnut Crescent,Newark,NJ,27309.0,US,572
+738 Hickory Heights,Newark,NJ,39577.0,US,573
+980 Basswood Avenue,Rochester,NY,99734.0,US,574
+359 Buckeye Avenue,Jersey City,NJ,23201.0,US,575
+146 Olive Avenue,Waterbury,CT,58462.0,US,576
+943 Redwood Avenue,Hartford,CT,19296.0,US,577
+483 Olive Avenue,Stamford,CT,85526.0,US,578
+429 Spruce Avenue,Newark,NJ,69460.0,US,579
+111 Tulip Avenue,Trenton,NJ,88139.0,US,580
+548 Cherry Avenue,New York,NY,53864.0,US,581
+271 Palm Avenue,Camden,NJ,29348.0,US,582
+905 Hemlock Avenue,Jersey City,NJ,41596.0,US,583
+275 Olive Avenue,Albany,NY,89104.0,US,584
+517 Walnut Avenue,Rochester,NY,82119.0,US,585
+398 Mulberry Avenue,New York,NY,86064.0,US,586
+183 Hickory Heights,Bridgeport,CT,47490.0,US,587
+787 Sycamore Avenue,Trenton,NJ,98049.0,US,588
+679 Buckeye Avenue,Camden,NJ,59743.0,US,589
+197 Elm Avenue,Rochester,NY,94117.0,US,590
+877 Ash Avenue,Jersey City,NJ,21101.0,US,591
+751 Sequoia Avenue,Stamford,CT,72588.0,US,592
+629 Pine Avenue,Jersey City,NJ,44839.0,US,593
+625 Maple Avenue,New York,NY,58342.0,US,594
+665 Redwood Avenue,Hartford,CT,95421.0,US,595
+714 Aspen Avenue,New Haven,CT,68024.0,US,596
+814 Cottonwood Avenue,Paterson,NJ,34552.0,US,597
+595 Butternut Avenue,Camden,NJ,69926.0,US,598
+988 Tamarack Avenue,Waterbury,CT,50807.0,US,599
+957 Walnut Crescent,Waterbury,CT,82558.0,US,600
+384 Persimmon Avenue,Newark,NJ,81826.0,US,601
+397 Pine Avenue,Bridgeport,CT,44729.0,US,602
+293 Hickory Heights,New Haven,CT,96202.0,US,603
+741 Poplar Avenue,Bridgeport,CT,60929.0,US,604
+199 Pine Plaza,New Haven,CT,82553.0,US,605
+647 Plum Avenue,Bridgeport,CT,11694.0,US,606
+368 Juniper Avenue,Paterson,NJ,53358.0,US,607
+581 Alder Avenue,New Haven,CT,83757.0,US,608
+941 Magnolia Meadow,Paterson,NJ,98607.0,US,609
+343 Laurel Avenue,New York,NY,49792.0,US,610
+690 Pine Plaza,New Haven,CT,66810.0,US,611
+489 Laurel Avenue,Stamford,CT,19341.0,US,612
+896 Pine Avenue,Paterson,NJ,67952.0,US,613
+250 Mulberry Avenue,Camden,NJ,12876.0,US,614
+559 Pear Avenue,Syracuse,NY,50631.0,US,615
+964 Mesquite Avenue,Bridgeport,CT,98503.0,US,616
+861 Fir Avenue,Syracuse,NY,96234.0,US,617
+614 Tamarack Avenue,Albany,NY,64461.0,US,618
+422 Mesquite Avenue,New Haven,CT,63473.0,US,619
+313 Dogwood Avenue,Hartford,CT,51258.0,US,620
+637 Sweetgum Avenue,Newark,NJ,13769.0,US,621
+534 Buckeye Avenue,Syracuse,NY,67443.0,US,622
+121 Aspen Court,Paterson,NJ,31464.0,US,623
+723 Cypress Avenue,Camden,NJ,86430.0,US,624
+915 Buckeye Avenue,New Haven,CT,65924.0,US,625
+714 Tamarack Avenue,Albany,NY,82626.0,US,626
+925 Ash Avenue,Rochester,NY,57938.0,US,627
+711 Serviceberry Avenue,Albany,NY,56157.0,US,628
+744 Laurel Avenue,Newark,NJ,41985.0,US,629
+396 Sycamore Avenue,New York,NY,79230.0,US,630
+351 Elm Avenue,Camden,NJ,54801.0,US,631
+605 Sugar Maple Avenue,Waterbury,CT,16049.0,US,632
+333 Umbrella Avenue,Rochester,NY,63548.0,US,633
+659 Plum Avenue,Syracuse,NY,98111.0,US,634
+420 Alder Avenue,Newark,NJ,76462.0,US,635
+477 Basswood Avenue,Rochester,NY,97450.0,US,636
+848 Fir Avenue,Paterson,NJ,48274.0,US,637
+590 Aspen Avenue,Camden,NJ,49156.0,US,638
+728 Aspen Avenue,Camden,NJ,92797.0,US,639
+977 Cedar Boulevard,Albany,NY,49031.0,US,640
+160 Walnut Crescent,Waterbury,CT,86972.0,US,641
+659 Maple Avenue,Camden,NJ,82901.0,US,642
+385 Cottonwood Avenue,Stamford,CT,76899.0,US,643
+187 Beech Avenue,Camden,NJ,46303.0,US,644
+840 Sequoia Avenue,Jersey City,NJ,14305.0,US,645
+882 Poplar Avenue,Jersey City,NJ,83620.0,US,646
+355 Magnolia Avenue,Albany,NY,56081.0,US,647
+447 Persimmon Avenue,Buffalo,NY,35582.0,US,648
+297 Walnut Avenue,Newark,NJ,20978.0,US,649
+693 Sweetgum Avenue,Paterson,NJ,76766.0,US,650
+229 Acorn Avenue,Jersey City,NJ,48253.0,US,651
+975 Poplar Avenue,Camden,NJ,94639.0,US,652
+583 Pine Plaza,Camden,NJ,11506.0,US,653
+271 Oak Avenue,Jersey City,NJ,42671.0,US,654
+860 Sequoia Avenue,Newark,NJ,25475.0,US,655
+410 Tulip Avenue,Bridgeport,CT,57630.0,US,656
+282 Hemlock Avenue,Stamford,CT,94022.0,US,657
+239 Silver Avenue,Rochester,NY,27342.0,US,658
+363 Magnolia Meadow,Trenton,NJ,30095.0,US,659
