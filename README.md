@@ -12,6 +12,7 @@ Here is what you need to do to create the database.
 
 1. open pgAdmin
 2. create database `dream_homes_nyc`
+3. run script `Database DDL.sql`
 
 
 ## Database schema
