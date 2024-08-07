@@ -1,0 +1,301 @@
+FeedbackID,ClientID,AgentID,Rating,Feedback,InteractionType,FeedbackDate
+F001,273,354,3,The agent was very helpful and knowledgeable.,Appointment,2019-05-26
+F002,32,497,3,"I had a great experience, everything was smooth and efficient.",Appointment,2019-06-10
+F003,53,14,4,"Excellent service, highly recommend!",Appointment,2019-06-13
+F004,211,442,5,The agent went above and beyond to help me.,Appointment,2019-07-10
+F005,214,375,2,"Quick and efficient service, very satisfied.",Appointment,2019-07-24
+F006,208,238,4,The agent answered all my questions thoroughly.,Appointment,2019-08-26
+F007,210,411,5,"Good service, but communication could improve.",Appointment,2019-09-19
+F008,208,238,2,The assistance provided was excellent and timely.,Transaction,2019-09-27
+F009,172,217,4,Very friendly and helpful staff.,Appointment,2019-10-09
+F010,248,149,5,"Overall, a satisfactory experience.",Appointment,2019-10-14
+F011,266,222,5,The agent was courteous and efficient.,Appointment,2019-10-21
+F012,115,58,3,The service was prompt and professional.,Appointment,2019-10-22
+F013,300,148,5,I appreciated the agent's expertise and patience.,Appointment,2019-11-30
+F014,232,383,5,The experience was seamless and hassle-free.,Appointment,2019-12-12
+F015,168,412,1,The support I received was exceptional.,Appointment,2019-12-14
+F016,295,175,1,Highly professional and attentive service.,Appointment,2019-12-18
+F017,168,412,5,The agent made the process easy and enjoyable.,Transaction,2020-02-01
+F018,249,337,5,I am extremely satisfied with the service.,Appointment,2020-02-08
+F019,53,14,4,The agent's knowledge was impressive and helpful.,Transaction,2020-02-12
+F020,174,129,5,The whole experience was outstanding.,Appointment,2020-02-18
+F021,273,354,5,The service exceeded my expectations.,Transaction,2020-02-18
+F022,250,58,5,The agent was very patient and understanding.,Appointment,2020-02-19
+F023,30,411,4,The agent provided excellent guidance throughout.,Appointment,2020-02-23
+F024,232,383,3,The process was quick and painless.,Transaction,2020-03-01
+F025,176,58,2,The agent was attentive and supportive.,Appointment,2020-03-04
+F026,85,147,4,Great customer service and friendly staff.,Transaction,2020-03-27
+F027,106,149,3,The assistance was very professional and efficient.,Appointment,2020-04-09
+F028,16,481,2,I was very pleased with the service provided.,Appointment,2020-04-13
+F029,127,133,2,The agent's professionalism was top-notch.,Appointment,2020-04-25
+F030,190,396,3,I felt well taken care of during the process.,Appointment,2020-05-06
+F031,124,133,5,The agent was very knowledgeable and helpful.,Appointment,2020-06-05
+F032,39,147,4,The service was excellent and timely.,Transaction,2020-06-13
+F033,100,396,5,The agent was very understanding and supportive.,Appointment,2020-06-25
+F034,145,368,2,The agent provided clear and helpful information.,Appointment,2020-07-03
+F035,28,354,5,The process was straightforward and easy to follow.,Appointment,2020-07-14
+F036,182,64,3,The agent was very friendly and approachable.,Appointment,2020-07-14
+F037,267,29,4,The service was reliable and efficient.,Appointment,2020-07-14
+F038,16,190,5,The agent's support was invaluable.,Appointment,2020-07-19
+F039,206,300,1,The overall experience was very positive.,Appointment,2020-07-26
+F040,22,98,1,The agent was very professional and courteous.,Appointment,2020-08-11
+F041,62,396,1,The service was thorough and efficient.,Appointment,2020-08-12
+F042,243,29,4,The agent was very responsive and helpful.,Appointment,2020-08-17
+F043,81,29,1,The service was top-notch and very professional.,Transaction,2020-08-20
+F044,81,29,1,The agent was very attentive and considerate.,Appointment,2020-08-23
+F045,272,300,2,The process was smooth and efficient.,Appointment,2020-08-23
+F046,244,192,1,The agent's assistance was very helpful.,Transaction,2020-08-25
+F047,272,300,2,The service was outstanding and very professional.,Transaction,2020-08-26
+F048,206,300,1,The agent was very patient and supportive.,Transaction,2020-10-09
+F049,87,91,2,The overall experience was excellent.,Appointment,2020-10-16
+F050,227,333,3,The agent was very helpful and accommodating.,Appointment,2020-10-17
+F051,22,98,5,The service was very professional and efficient.,Transaction,2020-10-18
+F052,145,457,2,The agent's guidance was very helpful.,Appointment,2020-11-02
+F053,192,107,5,The process was simple and straightforward.,Appointment,2020-11-14
+F054,55,217,3,The agent was very knowledgeable and supportive.,Appointment,2020-11-23
+F055,71,155,5,The service was very reliable and efficient.,Appointment,2020-11-27
+F056,187,148,4,The agent was very courteous and professional.,Transaction,2020-12-02
+F057,182,64,3,The assistance provided was very helpful.,Transaction,2020-12-03
+F058,13,87,1,The overall experience was very satisfactory.,Appointment,2020-12-14
+F059,171,170,1,The agent was very friendly and helpful.,Appointment,2020-12-16
+F060,97,148,3,The service was very efficient and professional.,Appointment,2020-12-20
+F061,171,331,1,The agent was very patient and understanding.,Appointment,2020-12-21
+F062,188,62,2,The process was very smooth and hassle-free.,Appointment,2020-12-25
+F063,62,396,2,The agent was very knowledgeable and accommodating.,Transaction,2020-12-25
+F064,252,167,4,The service was very prompt and efficient.,Appointment,2020-12-31
+F065,267,149,3,The agent was very professional and helpful.,Transaction,2021-01-04
+F066,124,133,4,The assistance provided was very reliable.,Transaction,2021-01-05
+F067,243,29,2,The overall experience was very positive.,Transaction,2021-01-19
+F068,174,129,2,The agent was very attentive and supportive.,Transaction,2021-01-30
+F069,99,434,1,The service was very professional and reliable.,Appointment,2021-02-02
+F070,49,148,3,The agent was very helpful and courteous.,Appointment,2021-02-17
+F071,201,192,2,The process was very straightforward and easy.,Appointment,2021-02-17
+F072,255,103,5,The agent was very knowledgeable and friendly.,Appointment,2021-02-28
+F073,255,302,1,The service was very efficient and timely.,Appointment,2021-03-17
+F074,81,190,3,The agent was very supportive and professional.,Appointment,2021-03-28
+F075,99,434,3,The assistance provided was very satisfactory.,Transaction,2021-04-06
+F076,131,91,3,The overall experience was excellent.,Appointment,2021-04-10
+F077,84,395,5,The agent was very friendly and accommodating.,Appointment,2021-04-27
+F078,171,170,5,The service was very reliable and professional.,Transaction,2021-04-30
+F079,105,447,4,The agent was very knowledgeable and helpful.,Appointment,2021-05-07
+F080,129,200,1,The process was very smooth and efficient.,Appointment,2021-05-15
+F081,118,411,4,The agent was very patient and courteous.,Appointment,2021-05-20
+F082,83,332,3,The service was very prompt and professional.,Appointment,2021-05-26
+F083,38,428,4,The agent was very understanding and supportive.,Appointment,2021-05-28
+F084,165,304,3,The assistance provided was very reliable.,Transaction,2021-05-30
+F085,128,155,4,The overall experience was very positive.,Appointment,2021-05-31
+F086,10,331,1,The agent was very attentive and helpful.,Appointment,2021-06-04
+F087,129,200,3,The service was very professional and efficient.,Transaction,2021-06-08
+F088,122,70,1,The agent was very knowledgeable and accommodating.,Appointment,2021-06-10
+F089,257,345,2,The process was very straightforward and easy.,Appointment,2021-06-11
+F090,13,114,2,The agent was very courteous and professional.,Appointment,2021-06-25
+F091,174,234,4,The service was very prompt and efficient.,Appointment,2021-06-29
+F092,190,91,5,The agent was very helpful and friendly.,Appointment,2021-07-04
+F093,3,293,2,The assistance provided was very satisfactory.,Appointment,2021-07-06
+F094,5,345,1,The overall experience was excellent.,Appointment,2021-07-11
+F095,212,419,3,The agent was very professional and supportive.,Appointment,2021-07-22
+F096,133,283,2,The service was very reliable and efficient.,Appointment,2021-07-27
+F097,208,443,1,The agent was very knowledgeable and helpful.,Appointment,2021-08-01
+F098,31,62,2,The process was very smooth and hassle-free.,Appointment,2021-08-12
+F099,50,382,2,The agent was very friendly and accommodating.,Appointment,2021-08-23
+F100,287,360,5,The service was very efficient and professional.,Appointment,2021-09-04
+F101,103,70,1,I was not satisfied with the assistance provided.,Appointment,2021-09-05
+F102,87,434,3,"Very dissatisfied, would not recommend.",Appointment,2021-09-13
+F103,90,316,1,"The process was a bit slow, but overall fine.",Appointment,2021-09-17
+F104,55,333,5,"Not happy with the outcome, expected better.",Appointment,2021-09-19
+F105,89,107,1,"Had to wait longer than expected, not happy.",Appointment,2021-09-19
+F106,127,251,5,"The process was complicated, needs improvement.",Appointment,2021-09-19
+F107,103,192,5,"The service was okay, but there is room for improvement.",Appointment,2021-09-24
+F108,86,332,4,The agent was unprofessional and unhelpful.,Appointment,2021-10-11
+F109,236,244,4,The service was poor and inefficient.,Appointment,2021-10-13
+F110,201,192,1,The agent was rude and unresponsive.,Transaction,2021-10-13
+F111,174,234,1,The experience was frustrating and disappointing.,Transaction,2021-10-20
+F112,265,316,3,The agent did not provide clear information.,Appointment,2021-10-22
+F113,205,359,3,The process was very slow and cumbersome.,Appointment,2021-10-22
+F114,19,278,5,The service was not up to the mark.,Appointment,2021-10-23
+F115,187,244,3,The agent was unhelpful and dismissive.,Appointment,2021-11-01
+F116,242,133,2,The experience was not satisfactory.,Appointment,2021-11-04
+F117,259,396,5,The agent did not meet my expectations.,Appointment,2021-11-11
+F118,74,497,1,The process was very confusing and frustrating.,Transaction,2021-11-17
+F119,50,157,4,The service was not professional.,Appointment,2021-11-18
+F120,212,222,3,The agent was not knowledgeable or helpful.,Appointment,2021-11-27
+F121,102,343,3,The process was very slow and inefficient.,Appointment,2021-12-01
+F122,92,333,1,The service was not satisfactory.,Appointment,2021-12-11
+F123,3,421,3,The agent was not responsive or helpful.,Appointment,2021-12-12
+F124,134,155,4,The process was very complicated and time-consuming.,Appointment,2021-12-22
+F125,3,293,4,The service was not reliable or efficient.,Transaction,2022-01-05
+F126,222,66,4,The agent was not professional or courteous.,Transaction,2022-01-07
+F127,212,419,3,The experience was very disappointing.,Transaction,2022-01-08
+F128,290,29,3,The agent did not provide adequate support.,Appointment,2022-01-15
+F129,79,376,3,The process was very frustrating and complicated.,Transaction,2022-01-18
+F130,10,333,5,The service was not up to standard.,Appointment,2022-01-21
+F131,37,205,5,The agent was not helpful or accommodating.,Transaction,2022-01-22
+F132,50,382,1,The process was very slow and cumbersome.,Transaction,2022-01-24
+F133,184,346,1,The service was not professional or efficient.,Appointment,2022-02-02
+F134,94,16,2,The agent was not knowledgeable or supportive.,Appointment,2022-02-05
+F135,3,200,5,The experience was very frustrating and disappointing.,Appointment,2022-02-11
+F136,76,328,2,The agent did not provide clear or helpful information.,Appointment,2022-02-20
+F137,298,382,4,The process was very complicated and time-consuming.,Appointment,2022-02-24
+F138,290,29,5,The service was not reliable or efficient.,Transaction,2022-02-26
+F139,167,192,1,The agent was not professional or courteous.,Appointment,2022-02-28
+F140,255,114,2,The experience was very disappointing and frustrating.,Transaction,2022-03-01
+F141,133,337,2,The agent did not provide adequate support or assistance.,Transaction,2022-03-03
+F142,3,421,2,The process was very slow and cumbersome.,Transaction,2022-03-12
+F143,24,210,2,The service was not up to the mark.,Appointment,2022-03-22
+F144,134,155,4,The agent was not helpful or accommodating.,Transaction,2022-03-25
+F145,187,244,5,The experience was very frustrating and disappointing.,Transaction,2022-04-14
+F146,122,70,2,The agent did not provide clear or helpful information.,Transaction,2022-05-18
+F147,89,244,4,The process was very complicated and time-consuming.,Appointment,2022-05-22
+F148,89,107,1,The service was not reliable or efficient.,Transaction,2022-05-28
+F149,90,332,3,The agent was not professional or courteous.,Appointment,2022-06-01
+F150,120,92,5,The experience was very disappointing and frustrating.,Appointment,2022-06-07
+F151,5,345,4,The agent did not provide adequate support or assistance.,Transaction,2022-06-10
+F152,113,359,1,The process was very slow and cumbersome.,Appointment,2022-06-13
+F153,145,359,3,The service was not up to the mark.,Appointment,2022-06-23
+F154,79,383,2,The agent was not helpful or accommodating.,Transaction,2022-07-09
+F155,295,64,5,The experience was very frustrating and disappointing.,Appointment,2022-08-05
+F156,212,222,5,The agent did not provide clear or helpful information.,Transaction,2022-08-09
+F157,167,192,5,The process was very complicated and time-consuming.,Transaction,2022-08-25
+F158,92,14,1,The service was not reliable or efficient.,Appointment,2022-09-01
+F159,51,217,1,The agent was not professional or courteous.,Appointment,2022-09-08
+F160,221,70,5,The experience was very disappointing and frustrating.,Appointment,2022-09-10
+F161,31,345,3,The agent did not provide adequate support or assistance.,Appointment,2022-09-17
+F162,145,359,2,The process was very slow and cumbersome.,Transaction,2022-09-19
+F163,232,129,5,The service was not up to the mark.,Appointment,2022-09-21
+F164,104,185,1,The agent was not helpful or accommodating.,Appointment,2022-09-23
+F165,206,114,3,The experience was very frustrating and disappointing.,Appointment,2022-09-24
+F166,141,226,4,The agent did not provide clear or helpful information.,Appointment,2022-09-27
+F167,114,327,1,The process was very complicated and time-consuming.,Appointment,2022-10-01
+F168,31,345,2,The service was not reliable or efficient.,Transaction,2022-10-02
+F169,259,396,3,The agent was not professional or courteous.,Appointment,2022-10-13
+F170,198,346,4,The experience was very disappointing and frustrating.,Appointment,2022-10-13
+F171,136,175,2,The agent did not provide adequate support or assistance.,Appointment,2022-10-15
+F172,94,205,3,The process was very slow and cumbersome.,Appointment,2022-10-18
+F173,33,428,3,The service was not up to the mark.,Transaction,2022-10-25
+F174,130,497,2,The agent was not helpful or accommodating.,Appointment,2022-11-03
+F175,68,58,2,The experience was very frustrating and disappointing.,Appointment,2022-11-06
+F176,103,114,5,The agent did not provide clear or helpful information.,Appointment,2022-11-08
+F177,288,447,5,The process was very complicated and time-consuming.,Appointment,2022-11-12
+F178,276,346,2,The service was not reliable or efficient.,Appointment,2022-11-21
+F179,160,154,3,The agent was not professional or courteous.,Appointment,2022-12-27
+F180,114,327,2,The experience was very disappointing and frustrating.,Transaction,2023-01-25
+F181,208,234,2,The agent did not provide adequate support or assistance.,Appointment,2023-01-29
+F182,76,328,4,The process was very slow and cumbersome.,Transaction,2023-02-17
+F183,44,115,4,The service was not up to the mark.,Appointment,2023-03-15
+F184,130,497,3,The agent was not helpful or accommodating.,Transaction,2023-03-26
+F185,40,91,5,The experience was very frustrating and disappointing.,Appointment,2023-03-26
+F186,65,192,4,The agent did not provide clear or helpful information.,Appointment,2023-03-30
+F187,44,115,5,The process was very complicated and time-consuming.,Transaction,2023-04-04
+F188,192,29,2,"Very dissatisfied, would not recommend.",Appointment,2023-04-06
+F189,295,64,2,The agent went above and beyond to help me.,Transaction,2023-04-26
+F190,39,98,4,"The interaction was good, but could have been better.",Transaction,2023-05-01
+F191,208,234,3,"Quick and efficient service, very satisfied.",Transaction,2023-05-02
+F192,232,129,4,The agent answered all my questions thoroughly.,Transaction,2023-05-08
+F193,22,332,5,"Not happy with the outcome, expected better.",Transaction,2023-05-12
+F194,198,346,3,"Good service, but communication could improve.",Transaction,2023-05-12
+F195,300,376,4,The assistance provided was excellent and timely.,Transaction,2023-05-16
+F196,137,234,4,"Had to wait longer than expected, not happy.",Appointment,2023-05-20
+F197,17,133,5,Very friendly and helpful staff.,Appointment,2023-05-20
+F198,65,283,2,"The process was complicated, needs improvement.",Appointment,2023-05-21
+F199,92,235,2,"Overall, a satisfactory experience.",Appointment,2023-05-23
+F200,136,434,3,The agent was courteous and efficient.,Appointment,2023-05-27
+F201,227,304,2,The agent was very helpful and knowledgeable.,Appointment,2023-05-29
+F202,177,129,2,"I had a great experience, everything was smooth and efficient.",Appointment,2023-06-01
+F203,11,92,1,"The service was okay, but there is room for improvement.",Appointment,2023-06-06
+F204,198,327,4,I was not satisfied with the assistance provided.,Appointment,2023-06-06
+F205,5,481,2,"Excellent service, highly recommend!",Transaction,2023-06-11
+F206,259,332,4,"The process was a bit slow, but overall fine.",Appointment,2023-06-17
+F207,11,354,5,I appreciated the professionalism of the agent.,Appointment,2023-06-29
+F208,106,383,2,"Very dissatisfied, would not recommend.",Appointment,2023-07-03
+F209,89,112,1,The agent went above and beyond to help me.,Appointment,2023-07-04
+F210,136,192,4,"The interaction was good, but could have been better.",Appointment,2023-07-09
+F211,206,114,4,"Quick and efficient service, very satisfied.",Transaction,2023-07-17
+F212,133,98,3,The agent answered all my questions thoroughly.,Appointment,2023-07-26
+F213,94,421,3,"Not happy with the outcome, expected better.",Appointment,2023-08-08
+F214,89,112,1,"Good service, but communication could improve.",Transaction,2023-08-14
+F215,42,447,3,The assistance provided was excellent and timely.,Appointment,2023-08-16
+F216,25,382,2,"Had to wait longer than expected, not happy.",Appointment,2023-08-20
+F217,214,217,5,Very friendly and helpful staff.,Appointment,2023-08-21
+F218,49,235,2,"The process was complicated, needs improvement.",Appointment,2023-08-21
+F219,104,185,1,"Overall, a satisfactory experience.",Transaction,2023-08-29
+F220,51,217,3,The agent was courteous and efficient.,Transaction,2023-08-31
+F221,41,300,5,The agent was very helpful and knowledgeable.,Appointment,2023-08-31
+F222,10,382,1,"I had a great experience, everything was smooth and efficient.",Appointment,2023-09-01
+F223,2,133,4,"The service was okay, but there is room for improvement.",Appointment,2023-09-05
+F224,158,339,4,I was not satisfied with the assistance provided.,Appointment,2023-09-06
+F225,92,412,3,"Excellent service, highly recommend!",Appointment,2023-09-08
+F226,130,300,5,"The process was a bit slow, but overall fine.",Appointment,2023-09-18
+F227,267,302,3,I appreciated the professionalism of the agent.,Appointment,2023-09-19
+F228,109,396,1,"Very dissatisfied, would not recommend.",Appointment,2023-09-19
+F229,176,148,5,The agent went above and beyond to help me.,Appointment,2023-09-21
+F230,285,243,1,"The interaction was good, but could have been better.",Transaction,2023-09-24
+F231,90,283,2,"Quick and efficient service, very satisfied.",Appointment,2023-09-29
+F232,3,200,2,The agent answered all my questions thoroughly.,Appointment,2023-09-30
+F233,77,430,5,"Not happy with the outcome, expected better.",Transaction,2023-10-01
+F234,259,428,5,"Good service, but communication could improve.",Appointment,2023-10-02
+F235,104,62,4,The assistance provided was excellent and timely.,Appointment,2023-10-06
+F236,31,155,3,"Had to wait longer than expected, not happy.",Transaction,2023-10-09
+F237,156,29,3,Very friendly and helpful staff.,Appointment,2023-10-15
+F238,160,112,1,"The process was complicated, needs improvement.",Transaction,2023-11-10
+F239,192,300,3,"Overall, a satisfactory experience.",Transaction,2023-11-16
+F240,157,234,2,The agent was courteous and efficient.,Appointment,2023-12-12
+F241,179,66,3,The agent was very helpful and knowledgeable.,Appointment,2023-12-12
+F242,17,133,2,"I had a great experience, everything was smooth and efficient.",Transaction,2023-12-15
+F243,165,434,3,"The service was okay, but there is room for improvement.",Appointment,2023-12-16
+F244,92,412,5,I was not satisfied with the assistance provided.,Transaction,2023-12-16
+F245,227,304,1,"Excellent service, highly recommend!",Transaction,2023-12-25
+F246,247,481,3,"The process was a bit slow, but overall fine.",Appointment,2023-12-28
+F247,133,98,2,I appreciated the professionalism of the agent.,Transaction,2023-12-29
+F248,270,500,3,"Very dissatisfied, would not recommend.",Appointment,2024-01-04
+F249,130,300,3,The agent went above and beyond to help me.,Transaction,2024-01-12
+F250,247,368,2,"The interaction was good, but could have been better.",Appointment,2024-02-01
+F251,208,170,4,"Quick and efficient service, very satisfied.",Appointment,2024-02-04
+F252,35,260,2,The agent answered all my questions thoroughly.,Appointment,2024-02-06
+F253,65,217,2,"Not happy with the outcome, expected better.",Appointment,2024-02-15
+F254,10,238,2,"Good service, but communication could improve.",Appointment,2024-03-04
+F255,79,368,3,The assistance provided was excellent and timely.,Appointment,2024-03-11
+F256,40,91,4,"Had to wait longer than expected, not happy.",Transaction,2024-03-21
+F257,84,114,2,Very friendly and helpful staff.,Appointment,2024-03-23
+F258,248,112,5,"The process was complicated, needs improvement.",Appointment,2024-03-30
+F259,94,421,5,"Overall, a satisfactory experience.",Transaction,2024-04-21
+F260,104,62,3,The agent was courteous and efficient.,Transaction,2024-04-27
+F261,247,481,2,The agent was very helpful and knowledgeable.,Transaction,2024-04-29
+F262,131,175,2,"I had a great experience, everything was smooth and efficient.",Appointment,2024-05-03
+F263,136,192,2,"The service was okay, but there is room for improvement.",Transaction,2024-05-03
+F264,68,481,3,I was not satisfied with the assistance provided.,Appointment,2024-05-07
+F265,38,190,5,"Excellent service, highly recommend!",Appointment,2024-05-14
+F266,99,226,3,"The process was a bit slow, but overall fine.",Appointment,2024-05-21
+F267,113,58,3,I appreciated the professionalism of the agent.,Appointment,2024-05-31
+F268,287,185,3,"Very dissatisfied, would not recommend.",Appointment,2024-06-02
+F269,145,91,1,The agent went above and beyond to help me.,Transaction,2024-06-06
+F270,250,14,4,"The interaction was good, but could have been better.",Appointment,2024-06-07
+F271,179,66,2,"Quick and efficient service, very satisfied.",Transaction,2024-06-16
+F272,148,316,1,The agent answered all my questions thoroughly.,Appointment,2024-06-22
+F273,200,107,4,"Not happy with the outcome, expected better.",Appointment,2024-06-23
+F274,134,16,3,"Good service, but communication could improve.",Appointment,2024-07-03
+F275,79,368,5,The assistance provided was excellent and timely.,Transaction,2024-07-08
+F276,49,333,1,"Had to wait longer than expected, not happy.",Appointment,2024-07-11
+F277,109,259,2,Very friendly and helpful staff.,Appointment,2024-07-23
+F278,152,226,4,"The process was complicated, needs improvement.",Transaction,2024-07-26
+F279,41,300,3,"Overall, a satisfactory experience.",Transaction,2024-08-03
+F280,22,434,4,The agent was courteous and efficient.,Appointment,2024-08-11
+F281,247,368,4,The agent was very helpful and knowledgeable.,Transaction,2024-08-13
+F282,131,175,3,"I had a great experience, everything was smooth and efficient.",Transaction,2024-08-15
+F283,248,112,1,"The service was okay, but there is room for improvement.",Transaction,2024-09-07
+F284,100,66,3,I was not satisfied with the assistance provided.,Transaction,2024-09-19
+F285,147,382,2,"Excellent service, highly recommend!",Transaction,2024-09-19
+F286,207,147,1,"The process was a bit slow, but overall fine.",Transaction,2024-10-10
+F287,109,259,5,I appreciated the professionalism of the agent.,Transaction,2024-11-16
+F288,148,155,3,"Very dissatisfied, would not recommend.",Appointment,2024-11-27
+F289,73,343,2,The agent went above and beyond to help me.,Appointment,2024-12-12
+F290,236,170,5,"The interaction was good, but could have been better.",Appointment,2024-12-18
+F291,65,217,5,"Quick and efficient service, very satisfied.",Transaction,2024-12-27
+F292,114,411,3,The agent answered all my questions thoroughly.,Appointment,2024-12-29
+F293,236,170,2,"Not happy with the outcome, expected better.",Transaction,2025-01-04
+F294,127,200,4,"Good service, but communication could improve.",Transaction,2025-01-17
+F295,22,434,2,The assistance provided was excellent and timely.,Transaction,2025-01-19
+F296,49,333,1,"Had to wait longer than expected, not happy.",Transaction,2025-03-30
+F297,113,58,2,Very friendly and helpful staff.,Transaction,2025-05-08
+F298,200,107,1,"The process was complicated, needs improvement.",Transaction,2025-05-21
+F299,248,191,4,"Overall, a satisfactory experience.",Transaction,2025-05-26
+F300,114,411,1,The agent was courteous and efficient.,Transaction,2025-06-19

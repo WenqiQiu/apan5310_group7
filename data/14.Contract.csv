@@ -1,0 +1,146 @@
+ContractID,TransactionID,ClientID,PropertyID,StartDate,EndDate,ContractType,Amount,ContractStatus,RenewalOption,DepositAmount,MonthlyRent,TerminationClause,SignedDate,WitnessName,SpecialTerms
+C0001,T001,53,169,2020-07-14,,Purchase,325530.0,Active,,,,,2019-08-08,Bob Brown,Seller to cover closing costs
+C0002,T002,246,33,2020-07-02,2023-07-02,Rent,32238.0,Terminated,Yes,1195.31,895.5,No penalty,2019-08-24,Bob Brown,Pet allowed
+C0003,T003,39,162,2019-10-04,,Purchase,316824.0,Active,,,,,2019-08-29,Jane Smith,Seller to cover closing costs
+C0004,T004,172,111,2020-02-23,,Purchase,455016.0,Active,,,,,2019-10-10,Jane Smith,Immediate move-in available
+C0005,T005,85,33,2020-07-18,2024-07-17,Rent,42984.0,Expired,No,2171.1,895.5,1 month notice required,2019-12-25,Alice Johnson,Pet allowed
+C0006,T006,187,104,2020-07-25,2025-07-24,Rent,86065.0,Active,No,2470.93,1434.42,2 months notice required,2020-02-04,John Doe,Maintenance included
+C0007,T007,232,104,2020-06-20,2021-06-20,Rent,17213.0,Expired,Yes,4448.62,1434.42,2 months notice required,2020-02-18,Bob Brown,Maintenance included
+C0008,T008,208,7,2020-11-12,2023-11-12,Rent,42420.0,Expired,Yes,1918.3,1178.33,No penalty,2020-02-29,Alice Johnson,
+C0009,T009,273,26,2020-04-13,2022-04-13,Rent,47286.0,Terminated,No,4712.1,1970.25,1 month notice required,2020-04-11,Jane Smith,Pet allowed
+C0010,T010,150,44,2020-11-01,,Purchase,375327.0,Active,,,,,2020-06-26,Jane Smith,Includes all appliances
+C0011,T011,174,277,2021-03-16,2022-03-16,Rent,19971.0,Expired,Yes,4224.98,1664.25,2 months notice required,2020-07-07,Alice Johnson,Pet allowed
+C0012,T012,106,255,2021-07-18,,Purchase,204060.0,Active,,,,,2020-08-06,Alice Johnson,Seller to cover closing costs
+C0013,T013,168,291,2021-02-27,2026-02-26,Rent,60575.0,Active,No,2599.97,1009.58,1 month notice required,2020-08-08,Jane Smith,Maintenance included
+C0014,T014,248,139,2020-12-27,2023-12-27,Rent,39612.0,Terminated,Yes,2702.38,1100.33,2 months notice required,2020-09-05,Bob Brown,Maintenance included
+C0015,T015,182,181,2021-08-09,,Purchase,150427.0,Active,,,,,2020-10-03,Alice Johnson,Home warranty included
+C0016,T016,124,142,2021-07-10,2025-07-09,Rent,53372.0,Active,No,1487.19,1111.92,No penalty,2020-10-04,Alice Johnson,
+C0017,T017,62,12,2021-10-07,2025-10-06,Rent,60840.0,Active,Yes,1301.5,1267.5,2 months notice required,2020-10-10,Alice Johnson,No smoking
+C0018,T018,16,52,2021-02-01,,Purchase,352027.0,Active,,,,,2020-10-11,Bob Brown,Includes furniture
+C0019,T019,7,104,2021-03-29,2023-03-29,Rent,34426.0,Terminated,No,4732.49,1434.42,1 month notice required,2020-10-14,Bob Brown,Maintenance included
+C0020,T020,165,256,2021-08-29,,Purchase,350793.0,Active,,,,,2020-10-14,John Doe,Includes all appliances
+C0021,T021,244,142,2020-11-13,2021-11-13,Rent,13343.0,Expired,No,4223.25,1111.92,No penalty,2020-10-23,Jane Smith,
+C0022,T022,145,36,2021-01-19,,Purchase,338663.0,Active,,,,,2020-11-04,Alice Johnson,Property sold as-is
+C0023,T023,22,18,2021-07-02,2023-07-02,Rent,30936.0,Terminated,No,4173.99,1289.0,2 months notice required,2020-11-11,Bob Brown,No smoking
+C0024,T024,206,12,2021-08-09,2025-08-08,Rent,60840.0,Active,Yes,3583.56,1267.5,2 months notice required,2020-11-12,John Doe,Maintenance included
+C0025,T025,267,127,2021-04-19,,Purchase,272818.0,Active,,,,,2020-11-18,Alice Johnson,Seller financing available
+C0026,T026,171,82,2021-07-07,,Purchase,226254.0,Active,,,,,2020-12-15,Jane Smith,Immediate move-in available
+C0027,T027,31,69,2021-01-19,2026-01-18,Rent,53765.0,Active,Yes,4408.83,896.08,No penalty,2021-01-02,Jane Smith,Pet allowed
+C0028,T028,272,12,2021-09-01,2022-09-01,Rent,15210.0,Terminated,No,3563.92,1267.5,2 months notice required,2021-02-20,Alice Johnson,No smoking
+C0029,T029,71,121,2021-08-02,,Purchase,396875.0,Active,,,,,2021-02-28,Jane Smith,Includes all appliances
+C0030,T030,243,12,2021-11-07,2022-11-07,Rent,15210.0,Expired,No,2233.55,1267.5,2 months notice required,2021-03-24,Jane Smith,Pet allowed
+C0031,T031,201,254,2021-09-05,2026-09-04,Rent,108295.0,Active,Yes,3693.99,1804.92,2 months notice required,2021-05-07,Jane Smith,Maintenance included
+C0032,T032,99,235,2022-04-27,,Purchase,184741.0,Active,,,,,2021-05-22,Jane Smith,Includes furniture
+C0033,T033,129,95,2022-03-20,2027-03-19,Rent,47125.0,Active,No,2845.37,785.42,1 month notice required,2021-05-29,Jane Smith,Pet allowed
+C0034,T034,81,12,2022-04-21,2024-04-20,Rent,30420.0,Expired,Yes,3519.39,1267.5,No penalty,2021-05-30,Bob Brown,Pet allowed
+C0035,T035,174,122,2022-01-25,2023-01-25,Rent,12458.0,Terminated,Yes,1518.48,1038.17,No penalty,2021-07-01,Jane Smith,No smoking
+C0036,T036,74,95,2022-06-28,2026-06-27,Rent,37700.0,Active,Yes,2802.66,785.42,1 month notice required,2021-09-10,Alice Johnson,No smoking
+C0037,T037,255,72,2021-12-01,,Purchase,104654.0,Active,,,,,2021-09-21,John Doe,Home warranty included
+C0038,T038,79,238,2022-08-13,,Purchase,211575.0,Active,,,,,2021-10-06,John Doe,Seller financing available
+C0039,T039,187,130,2022-05-24,2023-05-24,Rent,19222.0,Expired,Yes,4717.65,1601.83,1 month notice required,2021-12-02,John Doe,No smoking
+C0040,T040,87,267,2022-08-08,,Purchase,201310.0,Active,,,,,2021-12-03,Jane Smith,Seller to cover closing costs
+C0041,T041,212,122,2022-10-20,2024-10-19,Rent,24916.0,Active,Yes,4430.56,1038.17,2 months notice required,2021-12-04,Jane Smith,Maintenance included
+C0042,T042,79,180,2022-12-19,,Purchase,403280.0,Active,,,,,2021-12-20,Bob Brown,Home warranty included
+C0043,T043,122,14,2022-07-06,,Purchase,352724.0,Active,,,,,2022-01-17,Bob Brown,Property sold as-is
+C0044,T044,3,28,2022-07-04,,Purchase,245766.0,Active,,,,,2022-01-30,Bob Brown,Seller financing available
+C0045,T045,89,153,2022-07-04,,Purchase,226643.0,Active,,,,,2022-02-05,Alice Johnson,Includes furniture
+C0046,T046,172,5,2022-10-08,,Purchase,396705.0,Active,,,,,2022-02-19,Alice Johnson,Seller financing available
+C0047,T047,102,134,2022-06-12,2023-06-12,Rent,13695.0,Expired,No,4060.87,1141.25,2 months notice required,2022-02-25,Bob Brown,
+C0048,T048,170,208,2022-10-31,2023-10-31,Rent,15636.0,Terminated,No,3618.08,1303.0,1 month notice required,2022-03-31,John Doe,No smoking
+C0049,T049,15,64,2022-11-26,2024-11-25,Rent,25142.0,Active,Yes,4472.94,1047.58,2 months notice required,2022-04-21,Alice Johnson,No smoking
+C0050,T050,215,257,2022-09-17,,Purchase,356890.0,Active,,,,,2022-04-29,John Doe,Includes all appliances
+C0051,T051,5,122,2023-04-12,2025-04-11,Rent,24916.0,Active,No,3507.01,1038.17,2 months notice required,2022-05-01,John Doe,Pet allowed
+C0052,T052,222,95,2022-11-04,2023-11-04,Rent,9425.0,Terminated,No,1323.81,785.42,2 months notice required,2022-05-03,Bob Brown,Pet allowed
+C0053,T053,208,122,2022-08-19,2024-08-18,Rent,24916.0,Active,Yes,1419.29,1038.17,2 months notice required,2022-05-13,John Doe,Pet allowed
+C0054,T054,37,95,2022-10-26,2027-10-25,Rent,47125.0,Active,No,3107.17,785.42,1 month notice required,2022-05-15,Bob Brown,Pet allowed
+C0055,T055,300,122,2023-01-11,2024-01-11,Rent,12458.0,Terminated,Yes,4627.77,1038.17,1 month notice required,2022-05-27,Bob Brown,
+C0056,T056,3,136,2022-09-14,,Purchase,285596.0,Active,,,,,2022-05-27,Jane Smith,Includes all appliances
+C0057,T057,134,101,2023-02-07,2025-02-06,Rent,35814.0,Active,No,4499.29,1492.25,No penalty,2022-05-28,John Doe,No smoking
+C0058,T058,50,17,2022-12-12,,Purchase,248360.0,Active,,,,,2022-06-09,Bob Brown,Seller to cover closing costs
+C0059,T059,133,122,2022-09-23,2027-09-22,Rent,62290.0,Active,No,4670.85,1038.17,No penalty,2022-06-19,Bob Brown,Pet allowed
+C0060,T060,290,64,2023-01-22,2024-01-22,Rent,12571.0,Terminated,Yes,1180.77,1047.58,No penalty,2022-06-24,Bob Brown,No smoking
+C0061,T061,212,134,2023-04-10,2027-04-09,Rent,54780.0,Active,Yes,3078.76,1141.25,1 month notice required,2022-08-21,Alice Johnson,Pet allowed
+C0062,T062,76,252,2023-01-31,,Purchase,317661.0,Active,,,,,2022-08-29,Bob Brown,Property sold as-is
+C0063,T063,86,55,2023-02-24,,Purchase,306027.0,Active,,,,,2022-09-16,Jane Smith,Property sold as-is
+C0064,T064,92,80,2023-03-21,2027-03-20,Rent,39916.0,Active,No,4635.78,831.58,2 months notice required,2022-09-29,John Doe,Pet allowed
+C0065,T065,5,270,2023-03-17,2026-03-16,Rent,40836.0,Active,Yes,1422.89,1134.33,No penalty,2022-11-12,John Doe,
+C0066,T066,160,45,2023-09-08,2026-09-07,Rent,34311.0,Active,Yes,1138.65,953.08,1 month notice required,2022-12-09,Jane Smith,No smoking
+C0067,T067,94,208,2023-06-07,2028-06-05,Rent,78180.0,Active,Yes,4465.58,1303.0,2 months notice required,2022-12-14,Jane Smith,Maintenance included
+C0068,T068,206,80,2023-06-03,2024-06-02,Rent,9979.0,Expired,Yes,1863.52,831.58,2 months notice required,2022-12-30,Alice Johnson,Pet allowed
+C0069,T069,33,80,2023-05-28,2026-05-27,Rent,29937.0,Active,Yes,3977.11,831.58,2 months notice required,2023-01-03,Alice Johnson,No smoking
+C0070,T070,255,167,2023-03-16,,Purchase,128992.0,Active,,,,,2023-01-10,Bob Brown,Includes furniture
+C0071,T071,167,183,2023-12-26,,Purchase,217879.0,Active,,,,,2023-01-22,John Doe,Property sold as-is
+C0072,T072,31,80,2023-08-26,2025-08-25,Rent,19958.0,Active,No,2120.27,831.58,2 months notice required,2023-02-17,Alice Johnson,Pet allowed
+C0073,T073,94,275,2023-12-01,2028-11-29,Rent,83515.0,Active,Yes,4755.6,1391.92,No penalty,2023-02-20,Alice Johnson,No smoking
+C0074,T074,114,270,2023-08-23,2026-08-22,Rent,40836.0,Active,Yes,4427.95,1134.33,2 months notice required,2023-02-25,Alice Johnson,
+C0075,T075,39,114,2023-05-16,,Purchase,276661.0,Active,,,,,2023-03-20,Bob Brown,No HOA fees for the first year
+C0076,T076,232,80,2023-05-20,2027-05-19,Rent,39916.0,Active,Yes,4033.07,831.58,No penalty,2023-03-21,Alice Johnson,Pet allowed
+C0077,T077,104,80,2023-11-20,2028-11-18,Rent,49895.0,Active,Yes,4213.07,831.58,No penalty,2023-03-23,Bob Brown,No smoking
+C0078,T078,31,270,2023-05-07,2024-05-06,Rent,13612.0,Terminated,Yes,2595.3,1134.33,2 months notice required,2023-04-02,Jane Smith,Pet allowed
+C0079,T079,31,188,2024-02-25,2027-02-24,Rent,37851.0,Active,Yes,3461.87,1051.42,2 months notice required,2023-04-08,Alice Johnson,Pet allowed
+C0080,T080,40,263,2023-08-19,2027-08-18,Rent,58456.0,Active,Yes,4518.25,1217.83,1 month notice required,2023-04-17,John Doe,Maintenance included
+C0081,T081,145,66,2023-11-27,,Purchase,397884.0,Active,,,,,2023-04-26,Bob Brown,Seller to cover closing costs
+C0082,T082,77,186,2024-02-14,2027-02-13,Rent,61767.0,Active,No,2918.6,1715.75,No penalty,2023-05-05,Bob Brown,No smoking
+C0083,T083,44,263,2023-08-11,2024-08-10,Rent,14614.0,Active,No,4566.27,1217.83,1 month notice required,2023-05-13,Jane Smith,Pet allowed
+C0084,T084,22,275,2023-07-15,2027-07-14,Rent,66812.0,Active,No,3564.68,1391.92,1 month notice required,2023-05-19,Bob Brown,
+C0085,T085,141,112,2023-12-15,2026-12-14,Rent,39990.0,Active,No,1548.13,1110.83,2 months notice required,2023-05-25,Alice Johnson,Maintenance included
+C0086,T086,130,168,2024-04-18,,Purchase,249835.0,Active,,,,,2023-06-06,John Doe,Seller to cover closing costs
+C0087,T087,136,285,2023-09-15,2028-09-13,Rent,61715.0,Active,No,4920.68,1028.58,1 month notice required,2023-07-02,Bob Brown,
+C0088,T088,160,263,2024-05-28,2025-05-28,Rent,14614.0,Active,No,1512.82,1217.83,No penalty,2023-07-04,Alice Johnson,No smoking
+C0089,T089,295,266,2023-08-16,2025-08-15,Rent,22270.0,Active,No,3538.86,927.92,No penalty,2023-07-09,John Doe,Maintenance included
+C0090,T090,137,42,2024-01-24,2025-01-23,Rent,17518.0,Active,No,4922.02,1459.83,No penalty,2023-07-16,Jane Smith,Pet allowed
+C0091,T091,17,230,2024-02-18,2026-02-17,Rent,33382.0,Active,Yes,4730.55,1390.92,2 months notice required,2023-07-19,Bob Brown,No smoking
+C0092,T092,51,80,2024-04-25,2026-04-25,Rent,19958.0,Active,Yes,4063.57,831.58,1 month notice required,2023-07-22,Bob Brown,
+C0093,T093,165,8,2024-05-23,,Purchase,343040.0,Active,,,,,2023-07-30,John Doe,Seller to cover closing costs
+C0094,T094,198,230,2024-03-26,2028-03-25,Rent,66764.0,Active,No,1220.0,1390.92,No penalty,2023-08-12,Alice Johnson,Pet allowed
+C0095,T095,198,275,2024-05-16,2027-05-16,Rent,50109.0,Active,No,1793.34,1391.92,2 months notice required,2023-08-19,Jane Smith,Pet allowed
+C0096,T096,89,227,2023-12-05,,Purchase,293753.0,Active,,,,,2023-08-23,John Doe,No HOA fees for the first year
+C0097,T097,208,188,2023-10-29,2027-10-28,Rent,50468.0,Active,No,1404.53,1051.42,2 months notice required,2023-08-31,Alice Johnson,Maintenance included
+C0098,T098,106,84,2024-05-13,,Purchase,323210.0,Active,,,,,2023-09-04,John Doe,Seller financing available
+C0099,T099,192,39,2023-12-03,,Purchase,269206.0,Active,,,,,2023-10-03,Jane Smith,Seller to cover closing costs
+C0100,T100,300,188,2023-11-25,2025-11-24,Rent,25234.0,Active,No,4827.54,1051.42,2 months notice required,2023-10-06,Alice Johnson,
+C0101,T101,214,29,2024-06-28,,Purchase,235873.0,Active,,,,,2023-11-05,John Doe,Property sold as-is
+C0102,T102,94,294,2024-10-02,2026-10-02,Rent,24186.0,Active,No,4945.38,1007.75,1 month notice required,2023-11-05,Alice Johnson,Maintenance included
+C0103,T103,130,56,2024-04-04,,Purchase,322515.0,Active,,,,,2023-12-02,Bob Brown,Seller financing available
+C0104,T104,11,42,2024-12-02,2025-12-02,Rent,17518.0,Active,Yes,1496.96,1459.83,2 months notice required,2023-12-21,Jane Smith,No smoking
+C0105,T105,25,218,2024-03-13,,Purchase,306016.0,Active,,,,,2024-01-06,Alice Johnson,Includes furniture
+C0106,T106,216,282,2024-12-14,,Purchase,112983.0,Active,,,,,2024-01-08,Alice Johnson,Seller to cover closing costs
+C0107,T107,227,115,2024-12-24,,Purchase,382891.0,Active,,,,,2024-01-08,John Doe,Property sold as-is
+C0108,T108,267,226,2024-12-02,,Purchase,298367.0,Active,,,,,2024-01-13,Alice Johnson,Includes all appliances
+C0109,T109,136,42,2024-08-04,2027-08-04,Rent,52554.0,Active,Yes,1271.56,1459.83,2 months notice required,2024-01-19,John Doe,
+C0110,T110,212,42,2024-01-29,2027-01-28,Rent,52554.0,Active,No,4312.88,1459.83,1 month notice required,2024-01-28,John Doe,
+C0111,T111,145,251,2024-03-07,,Purchase,288285.0,Active,,,,,2024-02-20,John Doe,Property sold as-is
+C0112,T112,285,160,2024-11-15,2028-11-14,Rent,35204.0,Active,No,1630.24,733.42,No penalty,2024-02-23,Alice Johnson,Pet allowed
+C0113,T113,49,196,2025-02-05,2029-02-04,Rent,57596.0,Active,No,2584.2,1199.92,1 month notice required,2024-04-16,Jane Smith,Pet allowed
+C0114,T114,92,294,2024-05-10,2029-05-09,Rent,60465.0,Active,No,1158.88,1007.75,2 months notice required,2024-04-18,Alice Johnson,
+C0115,T115,41,196,2024-10-03,2026-10-03,Rent,28798.0,Active,Yes,4971.84,1199.92,1 month notice required,2024-04-24,Bob Brown,No smoking
+C0116,T116,109,296,2024-06-20,2027-06-20,Rent,56379.0,Active,No,2064.67,1566.08,1 month notice required,2024-04-27,Alice Johnson,
+C0117,T117,2,196,2025-02-08,2027-02-08,Rent,28798.0,Active,No,1614.97,1199.92,2 months notice required,2024-04-30,Bob Brown,
+C0118,T118,157,74,2025-05-05,2028-05-04,Rent,36702.0,Active,Yes,4982.36,1019.5,No penalty,2024-05-21,Bob Brown,Pet allowed
+C0119,T119,202,160,2024-11-20,2028-11-19,Rent,35204.0,Active,No,3067.58,733.42,No penalty,2024-05-28,Bob Brown,Pet allowed
+C0120,T120,133,285,2025-03-10,2028-03-09,Rent,37029.0,Active,No,4700.63,1028.58,No penalty,2024-06-04,John Doe,Maintenance included
+C0121,T121,104,160,2025-01-14,2030-01-13,Rent,44005.0,Active,Yes,1257.83,733.42,No penalty,2024-06-13,Bob Brown,
+C0122,T122,247,71,2025-04-08,,Purchase,136000.0,Active,,,,,2024-06-16,Jane Smith,Home warranty included
+C0123,T123,247,93,2024-10-18,,Purchase,196536.0,Active,,,,,2024-09-22,Bob Brown,Includes all appliances
+C0124,T124,207,241,2025-05-02,,Purchase,222951.0,Active,,,,,2024-09-25,Alice Johnson,Immediate move-in available
+C0125,T125,100,79,2025-09-15,,Purchase,336646.0,Active,,,,,2024-09-27,Alice Johnson,Immediate move-in available
+C0126,T126,179,74,2024-12-21,2029-12-20,Rent,61170.0,Active,Yes,1842.73,1019.5,2 months notice required,2024-10-03,Bob Brown,Pet allowed
+C0127,T127,147,89,2024-11-05,,Purchase,308004.0,Active,,,,,2024-10-10,Alice Johnson,Includes all appliances
+C0128,T128,90,48,2025-01-24,,Purchase,372086.0,Active,,,,,2024-10-16,Bob Brown,Seller to cover closing costs
+C0129,T129,131,25,2025-10-18,,Purchase,181093.0,Active,,,,,2024-10-24,Bob Brown,Includes all appliances
+C0130,T130,79,141,2025-10-16,,Purchase,309822.0,Active,,,,,2024-10-24,John Doe,No HOA fees for the first year
+C0131,T131,152,74,2025-03-28,2026-03-28,Rent,12234.0,Active,No,1972.62,1019.5,No penalty,2024-11-18,Alice Johnson,Maintenance included
+C0132,T132,22,118,2025-06-25,2026-06-25,Rent,16127.0,Active,No,1569.12,1343.92,No penalty,2024-11-27,Bob Brown,
+C0133,T133,109,16,2024-12-25,2028-12-24,Rent,63188.0,Active,Yes,2581.1,1316.42,No penalty,2024-12-19,Alice Johnson,Maintenance included
+C0134,T134,248,62,2025-09-29,2028-09-28,Rent,41373.0,Active,Yes,3836.85,1149.25,2 months notice required,2025-01-15,John Doe,No smoking
+C0135,T135,73,131,2025-02-14,2027-02-14,Rent,25808.0,Active,No,1345.71,1075.33,2 months notice required,2025-01-17,Bob Brown,Maintenance included
+C0136,T136,236,198,2025-03-14,2029-03-13,Rent,41652.0,Active,No,1254.68,867.75,2 months notice required,2025-01-19,John Doe,Maintenance included
+C0137,T137,113,46,2025-10-17,,Purchase,186242.0,Active,,,,,2025-01-30,Jane Smith,Includes furniture
+C0138,T138,65,109,2025-11-27,,Purchase,203994.0,Active,,,,,2025-02-02,Jane Smith,Home warranty included
+C0139,T139,127,144,2025-02-24,,Purchase,305152.0,Active,,,,,2025-02-12,Alice Johnson,Property sold as-is
+C0140,T140,200,289,2025-08-14,2026-08-14,Rent,19348.0,Active,Yes,1190.65,1612.33,2 months notice required,2025-02-13,John Doe,No smoking
+C0141,T141,49,16,2025-06-18,2027-06-18,Rent,31594.0,Active,No,2023.61,1316.42,2 months notice required,2025-02-28,Alice Johnson,No smoking
+C0142,T142,134,16,2025-06-02,2027-06-02,Rent,31594.0,Active,No,3838.86,1316.42,No penalty,2025-03-04,Jane Smith,Maintenance included
+C0143,T143,114,131,2025-11-26,2027-11-26,Rent,25808.0,Active,No,3960.27,1075.33,2 months notice required,2025-06-06,Jane Smith,Pet allowed
+C0144,T144,148,131,2025-09-22,2028-09-21,Rent,38712.0,Active,Yes,4768.47,1075.33,2 months notice required,2025-06-29,Jane Smith,Maintenance included
+C0145,T145,248,198,2025-12-22,2030-12-21,Rent,52065.0,Active,No,1225.44,867.75,1 month notice required,2025-08-10,Bob Brown,Pet allowed
